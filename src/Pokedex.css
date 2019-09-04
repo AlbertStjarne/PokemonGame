@@ -4,7 +4,10 @@
   flex-wrap: wrap;
 }
 
-.Pokecard-data {
-  font-size: 80%;
-  
+.Pokedex-winner {
+  color: #4caf50;
+}
+
+.Pokedex-loser {
+  color: #e91e63;
 }
